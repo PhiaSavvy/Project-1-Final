@@ -1,0 +1,430 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Sarina&display=swap');
+
+.shop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .shop .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1469px;
+    height: 2456px;
+    position: relative;
+  }
+  
+  .shop .overlap {
+    position: absolute;
+    width: 1477px;
+    height: 777px;
+    top: 0;
+    left: 0;
+  }
+  
+  .shop .rectangle {
+    position: absolute;
+    width: 1477px;
+    height: 95px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .shop .text-wrapper {
+    top: 11px;
+    left: 1384px;
+    font-size: 36px;
+    position: absolute;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .text-wrapper-2 {
+    position: absolute;
+    top: 11px;
+    left: 1278px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .text-wrapper-3 {
+    position: absolute;
+    top: 11px;
+    left: 1120px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .text-wrapper-4 {
+    position: absolute;
+    width: 580px;
+    top: 21px;
+    left: 37px;
+    font-family: Sarina;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .pexels-ron-lach {
+    position: absolute;
+    width: 1469px;
+    height: 642px;
+    top: 94px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .shop .text-wrapper-5 {
+    top: 546px;
+    left: 681px;
+    font-size: 128px;
+    position: absolute;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .overlap-group {
+    position: absolute;
+    width: 1477px;
+    height: 190px;
+    top: 2266px;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .shop .sign-up-for-email {
+    position: absolute;
+    width: 661px;
+    top: 46px;
+    left: 20px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .rectangle-2 {
+    position: absolute;
+    width: 375px;
+    height: 53px;
+    top: 97px;
+    left: 739px;
+    background-color: #ffffff;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .shop .div-wrapper {
+    position: absolute;
+    width: 249px;
+    height: 53px;
+    top: 97px;
+    left: 1172px;
+    background-color: #ffffff;
+  }
+  
+  .shop .text-wrapper-6 {
+    position: absolute;
+    width: 111px;
+    top: 6px;
+    left: 69px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .text-wrapper-7 {
+    position: absolute;
+    width: 241px;
+    top: 31px;
+    left: 739px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .element-pjwryl {
+    position: absolute;
+    width: 351px;
+    height: 351px;
+    top: 851px;
+    left: 128px;
+    object-fit: cover;
+  }
+  
+  .shop .element-AC {
+    position: absolute;
+    width: 352px;
+    height: 351px;
+    top: 851px;
+    left: 562px;
+    object-fit: cover;
+  }
+  
+  .shop .element-rkuioel-AC-ul {
+    position: absolute;
+    width: 351px;
+    height: 351px;
+    top: 851px;
+    left: 997px;
+    object-fit: cover;
+  }
+  
+  .shop .element-mjuwiual-AC-ul {
+    position: absolute;
+    width: 351px;
+    height: 352px;
+    top: 1317px;
+    left: 121px;
+    object-fit: cover;
+  }
+  
+  .shop .element-soieiowjl-AC-ul {
+    position: absolute;
+    width: 351px;
+    height: 352px;
+    top: 1317px;
+    left: 990px;
+    object-fit: cover;
+  }
+  
+  .shop .element-bommfsjl-AC-uy {
+    position: absolute;
+    width: 351px;
+    height: 352px;
+    top: 1317px;
+    left: 559px;
+    object-fit: cover;
+  }
+  
+  .shop .overlap-2 {
+    position: absolute;
+    width: 351px;
+    height: 454px;
+    top: 1681px;
+    left: 124px;
+  }
+  
+  .shop .element-dxbaucdml-AC-uy {
+    position: absolute;
+    width: 351px;
+    height: 351px;
+    top: 103px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .shop .p {
+    position: absolute;
+    width: 311px;
+    top: 0;
+    left: 0;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .overlap-3 {
+    position: absolute;
+    width: 353px;
+    height: 454px;
+    top: 1681px;
+    left: 559px;
+  }
+  
+  .shop .element-zp-nwdxl-AC-ul {
+    position: absolute;
+    width: 353px;
+    height: 353px;
+    top: 101px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .shop .overlap-group-2 {
+    position: absolute;
+    width: 353px;
+    height: 460px;
+    top: 1675px;
+    left: 988px;
+  }
+  
+  .shop .element-bzaql-AC {
+    position: absolute;
+    width: 353px;
+    height: 353px;
+    top: 107px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .shop .tell-me-i-m-pretty {
+    position: absolute;
+    width: 311px;
+    top: 0;
+    left: 12px;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .line {
+    position: absolute;
+    width: 1000px;
+    height: 4px;
+    top: 802px;
+    left: 128px;
+  }
+  
+  .shop .overlap-4 {
+    position: absolute;
+    width: 193px;
+    height: 52px;
+    top: 778px;
+    left: 1151px;
+    background-color: #000000;
+  }
+  
+  .shop .text-wrapper-8 {
+    position: absolute;
+    top: 3px;
+    left: 33px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .mellon-collie-and {
+    position: absolute;
+    width: 311px;
+    top: 1208px;
+    left: 128px;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .stick-season {
+    position: absolute;
+    width: 311px;
+    top: 1208px;
+    left: 563px;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .span {
+    color: #000000;
+  }
+  
+  .shop .text-wrapper-9 {
+    color: #ff0004;
+  }
+  
+  .shop .ctrl-explicit-lyrics {
+    position: absolute;
+    width: 311px;
+    top: 1208px;
+    left: 995px;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .gold-greatest-hits {
+    position: absolute;
+    width: 311px;
+    top: 2146px;
+    left: 128px;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .neon-pill-cage-the {
+    position: absolute;
+    width: 311px;
+    top: 2146px;
+    left: 563px;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .shop .am-arctic-monkeys {
+    position: absolute;
+    width: 311px;
+    top: 2146px;
+    left: 988px;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  nav a {
+    text-decoration: none; /* Removes underline */
+    color: inherit; /* Keeps the text color the same */
+    padding: 10px;
+    display: inline-block; /* Ensures proper spacing */
+}
+
+nav a:hover {
+    opacity: 0.8; /* Optional hover effect */
+}

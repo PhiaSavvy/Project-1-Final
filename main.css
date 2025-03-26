@@ -1,0 +1,448 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Sarina&display=swap');
+
+.home {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    
+  }
+  
+  .home .div {
+    background-color: #ffffff;
+    overflow-x: hidden;
+    width: 1477px;
+    height: 2392px;
+    position: relative;
+  }
+  
+  .home .overlap-group {
+    position: absolute;
+    width: 1477px;
+    height: 190px;
+    top: 2205px;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .home .sign-up-for-email {
+    position: absolute;
+    width: 661px;
+    top: 46px;
+    left: 20px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .rectangle {
+    position: absolute;
+    width: 375px;
+    height: 53px;
+    top: 97px;
+    left: 739px;
+    background-color: #ffffff;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .home .overlap {
+    position: absolute;
+    width: 249px;
+    height: 53px;
+    top: 97px;
+    left: 1172px;
+    background-color: #ffffff;
+  }
+  
+  .home .text-wrapper {
+    position: absolute;
+    width: 111px;
+    top: 6px;
+    left: 69px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .text-wrapper-2 {
+    position: absolute;
+    width: 241px;
+    top: 31px;
+    left: 739px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .overlap-2 {
+    position: absolute;
+    width: 1477px;
+    height: 824px;
+    top: -2px;
+    left: 0;
+  }
+  
+  .home .overlap-3 {
+    position: absolute;
+    width: 1477px;
+    height: 786px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home .pexels-photo {
+    position: absolute;
+    width: 1477px;
+    height: 641px;
+    top: 94px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .home .text-wrapper-3 {
+    top: 555px;
+    left: 616px;
+    color: #ffffff;
+    font-size: 128px;
+    position: absolute;
+    font-family: Koulen;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .rectangle-2 {
+    position: absolute;
+    width: 1477px;
+    height: 95px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .home .text-wrapper-4 {
+    top: 11px;
+    left: 1384px;
+    font-family: Koulen;
+    position: absolute;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .text-wrapper-5 {
+    position: absolute;
+    top: 11px;
+    left: 1278px;
+    font-family:Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .text-wrapper-6 {
+    position: absolute;
+    top: 11px;
+    left: 1120px;
+    font-family:Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .text-wrapper-7 {
+    position: absolute;
+    width: 580px;
+    top: 21px;
+    left: 37px;
+    font-family:Sarina ;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .overlap-4 {
+    position: absolute;
+    width: 260px;
+    height: 52px;
+    top: 772px;
+    left: 1185px;
+  }
+  
+  .home .rectangle-3 {
+    position: absolute;
+    width: 260px;
+    height: 52px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .home .text-wrapper-8 {
+    top: 3px;
+    left: 44px;
+    font-family: "Inter-Regular", Helvetica;
+    position: absolute;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .overlap-5 {
+    position: absolute;
+    width: 485px;
+    height: 566px;
+    top: 1583px;
+    left: 56px;
+  }
+  
+  .home .text-wrapper-9 {
+    top: 0;
+    left: 103px;
+    position: absolute;
+    width: 382px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .rectangle-4 {
+    position: absolute;
+    width: 393px;
+    height: 561px;
+    top: 5px;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .home .text-wrapper-10 {
+    position: absolute;
+    width: 382px;
+    top: 21px;
+    left: 73px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .element-AC {
+    position: absolute;
+    width: 344px;
+    height: 244px;
+    top: 203px;
+    left: 19px;
+    object-fit: cover;
+  }
+  
+  .home .overlap-6 {
+    position: absolute;
+    width: 975px;
+    height: 561px;
+    top: 878px;
+    left: 554px;
+  }
+  
+  .home .text-wrapper-11 {
+    position: absolute;
+    width: 382px;
+    top: 109px;
+    left: 380px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .rectangle-5 {
+    position: absolute;
+    width: 393px;
+    height: 561px;
+    top: 0;
+    left: 498px;
+    background-color: #000000;
+  }
+  
+  .home .text-wrapper-12 {
+    position: absolute;
+    width: 382px;
+    top: 15px;
+    left: 593px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .rectangle-6 {
+    position: absolute;
+    width: 393px;
+    height: 561px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .home .text-wrapper-13 {
+    top: 9px;
+    left: 96px;
+    position: absolute;
+    width: 382px;
+    font-family:Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .img {
+    position: absolute;
+    width: 333px;
+    height: 333px;
+    top: 150px;
+    left: 30px;
+    object-fit: cover;
+  }
+  
+  .home .element-ntqxvsmkl-AC {
+    position: absolute;
+    width: 353px;
+    height: 319px;
+    top: 158px;
+    left: 518px;
+    object-fit: cover;
+  }
+  
+  .home .overlap-7 {
+    position: absolute;
+    width: 419px;
+    height: 561px;
+    top: 878px;
+    left: 56px;
+  }
+  
+  .home .new-arrivals {
+    position: absolute;
+    width: 382px;
+    top: 16px;
+    left: 37px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: transparent;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .span {
+    color: #ffffff;
+  }
+  
+  .home .text-wrapper-14 {
+    color: #000000;
+  }
+  
+  .home .overlap-8 {
+    position: absolute;
+    width: 934px;
+    height: 561px;
+    top: 1588px;
+    left: 554px;
+  }
+  
+  .home .collections {
+    position: absolute;
+    width: 382px;
+    top: 10px;
+    left: 552px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: transparent;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .sales {
+    width: 382px;
+    top: 10px;
+    left: 127px;
+    color: transparent;
+    font-size: 50px;
+    position: absolute;
+    font-family: Koulen;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .element-pjwryl {
+    position: absolute;
+    width: 333px;
+    height: 333px;
+    top: 153px;
+    left: 528px;
+    object-fit: cover;
+  }
+  
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+
+nav a {
+    text-decoration: none; /* Removes underline */
+    color: inherit; /* Keeps the text color the same */
+    padding: 10px;
+    display: inline-block; /* Ensures proper spacing */
+}
+
+nav a:hover {
+    opacity: 0.8; /* Optional hover effect */
+}

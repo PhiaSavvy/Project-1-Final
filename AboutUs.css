@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Sarina&display=swap');
+
+
+
+.about {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .about .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1459px;
+    height: 1590px;
+    position: relative;
+  }
+  
+  .about .overlap-group {
+    position: absolute;
+    width: 1459px;
+    height: 707px;
+    top: 0;
+    left: 0;
+  }
+  
+  .about .pexels-photo {
+    position: absolute;
+    width: 1459px;
+    height: 584px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .about .text-wrapper {
+    position: absolute;
+    top: 11px;
+    left: 1275px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about .text-wrapper-2 {
+    top: 11px;
+    left: 1169px;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    font-family: Koulen;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about .text-wrapper-3 {
+    position: absolute;
+    top: 11px;
+    left: 1011px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about .text-wrapper-4 {
+    top: 397px;
+    left: 539px;
+    color: #ffffff;
+    font-size: 128px;
+    position: absolute;
+    font-family: Koulen;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about .text-wrapper-5 {
+    position: absolute;
+    top: 591px;
+    left: 334px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about .text-wrapper-6 {
+    position: absolute;
+    width: 580px;
+    top: 10px;
+    left: 21px;
+    font-family: Sarina;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about .overlap {
+    position: absolute;
+    width: 1477px;
+    height: 190px;
+    top: 1404px;
+    left: -10px;
+    background-color: #000000;
+  }
+  
+  .about .sign-up-for-email {
+    position: absolute;
+    width: 661px;
+    top: 32px;
+    left: 35px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about .rectangle {
+    position: absolute;
+    width: 375px;
+    height: 53px;
+    top: 97px;
+    left: 739px;
+    background-color: #ffffff;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .about .div-wrapper {
+    position: absolute;
+    width: 249px;
+    height: 53px;
+    top: 97px;
+    left: 1172px;
+    background-color: #ffffff;
+  }
+  
+  .about .text-wrapper-7 {
+    position: absolute;
+    width: 111px;
+    top: 6px;
+    left: 69px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about .text-wrapper-8 {
+    position: absolute;
+    width: 241px;
+    top: 31px;
+    left: 739px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about .at-second-spin-we-wrapper {
+    position: absolute;
+    width: 1328px;
+    height: 658px;
+    top: 708px;
+    left: 66px;
+    border-radius: 74px;
+    border: 5px solid;
+    border-color: #000000;
+  }
+  
+  .about .at-second-spin-we {
+    position: absolute;
+    width: 1240px;
+    top: 9px;
+    left: 50px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  nav a {
+    text-decoration: none; /* Removes underline */
+    color: inherit; /* Keeps the text color the same */
+    padding: 10px;
+    display: inline-block; /* Ensures proper spacing */
+}
+
+nav a:hover {
+    opacity: 0.8; /* Optional hover effect */
+}
+  

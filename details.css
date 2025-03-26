@@ -1,0 +1,340 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Sarina&display=swap');
+
+.details {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .details .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1469px;
+    height: 1710px;
+    position: relative;
+  }
+  
+  .details .overlap {
+    position: absolute;
+    width: 1477px;
+    height: 1079px;
+    top: 0;
+    left: -8px;
+  }
+  
+  .details .overlap-group {
+    position: absolute;
+    width: 1477px;
+    height: 1079px;
+    top: 0;
+    left: 0;
+  }
+  
+  .details .rectangle {
+    position: absolute;
+    width: 1477px;
+    height: 95px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .details .text-wrapper {
+    position: absolute;
+    top: 11px;
+    left: 1384px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .details .text-wrapper-2 {
+    position: absolute;
+    top: 11px;
+    left: 1278px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .details .text-wrapper-3 {
+    position: absolute;
+    top: 11px;
+    left: 1120px;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .details .text-wrapper-4 {
+    position: absolute;
+    width: 580px;
+    top: 21px;
+    left: 37px;
+    font-family: Sarina;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .details .element-pjwryl {
+    position: absolute;
+    width: 815px;
+    height: 815px;
+    top: 223px;
+    left: 69px;
+    object-fit: cover;
+  }
+  
+  .details .rectangle-2 {
+    position: absolute;
+    width: 916px;
+    height: 903px;
+    top: 176px;
+    left: 19px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .details .element {
+    position: absolute;
+    width: 431px;
+    height: 431px;
+    top: 176px;
+    left: 1008px;
+    object-fit: cover;
+  }
+  
+  .details .element-xnl-wrapper {
+    position: absolute;
+    width: 431px;
+    height: 451px;
+    top: 628px;
+    left: 1008px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .details .element-xnl {
+    position: absolute;
+    width: 405px;
+    height: 394px;
+    top: 28px;
+    left: 10px;
+    object-fit: cover;
+  }
+  
+  .details .overlap-group-2 {
+    position: absolute;
+    width: 1477px;
+    height: 190px;
+    top: 1520px;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .details .overlap-2 {
+    position: absolute;
+    width: 661px;
+    height: 96px;
+    top: 46px;
+    left: 20px;
+  }
+  
+  .details .sign-up-for-email {
+    position: absolute;
+    width: 661px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .details .rectangle-wrapper {
+    position: absolute;
+    width: 375px;
+    height: 53px;
+    top: 97px;
+    left: 739px;
+    background-color: #ffffff;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .details .rectangle-3 {
+    position: relative;
+    height: 53px;
+    top: -3px;
+    left: -3px;
+    background-color: #ffffff;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .details .overlap-3 {
+    position: absolute;
+    width: 249px;
+    height: 53px;
+    top: 97px;
+    left: 1172px;
+    background-color: #ffffff;
+  }
+  
+  .details .text-wrapper-5 {
+    position: absolute;
+    width: 111px;
+    top: 6px;
+    left: 69px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .details .rectangle-4 {
+    position: absolute;
+    width: 249px;
+    height: 53px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .details .overlap-4 {
+    position: absolute;
+    width: 241px;
+    height: 39px;
+    top: 31px;
+    left: 739px;
+  }
+  
+  .details .text-wrapper-6 {
+    position: absolute;
+    width: 241px;
+    top: 0;
+    left: 0;
+    font-family: Koulen;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .details .overlap-5 {
+    position: absolute;
+    width: 1401px;
+    height: 425px;
+    top: 1089px;
+    left: 20px;
+  }
+  
+  .details .div-wrapper {
+    position: absolute;
+    width: 323px;
+    height: 52px;
+    top: 55px;
+    left: 1045px;
+    background-color: #000000;
+  }
+  
+  .details .text-wrapper-7 {
+    position: absolute;
+    top: 3px;
+    left: 63px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .details .overlap-6 {
+    position: absolute;
+    width: 1401px;
+    height: 425px;
+    top: 0;
+    left: 0;
+  }
+  
+  .details .mellon-collie-and {
+    position: absolute;
+    width: 925px;
+    top: 0;
+    left: 0;
+    font-family: Koulen;
+    font-weight: 400;
+    color: transparent;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .details .span {
+    color: #000000;
+  }
+  
+  .details .text-wrapper-8 {
+    color: #000000;
+    font-size: 48px;
+  }
+  
+  .details .text-wrapper-9 {
+    color: #ff0004;
+    font-size: 48px;
+  }
+  
+  .details .rectangle-5 {
+    position: absolute;
+    width: 1392px;
+    height: 211px;
+    top: 198px;
+    left: 9px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .details .this-remastered-and {
+    position: absolute;
+    width: 1333px;
+    top: 222px;
+    left: 38px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  nav a {
+    text-decoration: none; /* Removes underline */
+    color: inherit; /* Keeps the text color the same */
+    padding: 10px;
+    display: inline-block; /* Ensures proper spacing */
+}
+
+nav a:hover {
+    opacity: 0.8; /* Optional hover effect */
+}
